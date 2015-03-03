@@ -9,7 +9,7 @@ p {
 	color:white;
 	font-family:cursive, sans-serif;
 	font-size:36px;
-	outline-color:black;
+	outline-color:#000000 solid thick;
 	outline-width:3px;
 	margin-top:260px;
 }
